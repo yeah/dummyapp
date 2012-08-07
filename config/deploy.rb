@@ -12,6 +12,7 @@ set :application, 'dummyapp'
 
 # the repo where your code is hosted
 set :repository, 'https://github.com/yeah/dummyapp.git'
+set :scm, :git
 
 # optional stuff from here
 
