@@ -37,4 +37,4 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug'
-gem 'uberspacify', :git => 'git://github.com/yeah/uberspacify.git'
+gem 'uberspacify'
